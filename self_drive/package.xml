@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>self_drive</name>
-  <version>0.0.0</version>
+  <version>3.0.2</version>
   <description>The self_drive package</description>
 
-  <maintainer email="pi@todo.todo">pi</maintainer>
+  <maintainer email="jinsengfyd@naver.com">pi</maintainer>
 
 
   <license>TODO</license>
